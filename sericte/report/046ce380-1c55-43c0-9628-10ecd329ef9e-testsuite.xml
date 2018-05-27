@@ -1,0 +1,63 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1527409091532" stop="1527409091551">
+  <name>test001</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1527409091532" status="passed" stop="1527409091540">
+      <name>Test_001.test_002[1]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="63921-MainThread"/>
+        <label name="host" value="macdeMacBook-Air.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1527409091540" status="passed" stop="1527409091540">
+          <name>测试步骤002</name>
+          <title>测试步骤002</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1527409091544" status="passed" stop="1527409091546">
+      <name>Test_001.test_002[6]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="63921-MainThread"/>
+        <label name="host" value="macdeMacBook-Air.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1527409091546" status="passed" stop="1527409091546">
+          <name>测试步骤002</name>
+          <title>测试步骤002</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1527409091547" status="passed" stop="1527409091551">
+      <name>Test_001.test_002[3]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="63921-MainThread"/>
+        <label name="host" value="macdeMacBook-Air.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1527409091551" status="passed" stop="1527409091551">
+          <name>测试步骤002</name>
+          <title>测试步骤002</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
