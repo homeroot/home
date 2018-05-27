@@ -1,3 +1,5 @@
 {
-  "test001.py": true
+  "sericte/test001.py::Test_001::()::test_001[2]": true,
+  "test001.py": true,
+  "test_002.py": true
 }

@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6eb24ca-8c0b-46e3-a838-b4216401f63b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" beforeDir="false" afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test001.py" beforeDir="false" afterPath="$PROJECT_DIR$/test001.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pytest.ini" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pytest.ini" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pytest.ini">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="31" />
+            <state relative-caret-position="135">
+              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -26,18 +28,19 @@
       <file leaf-file-name="test001.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test001.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-              <folding>
-                <marker date="1527398648000" expanded="true" signature="98:103" ph="..." />
-              </folding>
+            <state>
+              <caret lean-forward="true" selection-end-line="5" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="604134e8-2616-40a7-83f3-a849b2512d7d-testsuite.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/report/604134e8-2616-40a7-83f3-a849b2512d7d-testsuite.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="test_002.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test_002.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -58,12 +61,14 @@
         <option value="$PROJECT_DIR$/sericte/pytest.ini" />
         <option value="$PROJECT_DIR$/pytest.ini" />
         <option value="$PROJECT_DIR$/test001.py" />
+        <option value="$PROJECT_DIR$/report/test_002.py" />
+        <option value="$PROJECT_DIR$/test_002.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="500" />
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="224" />
+    <option name="y" value="30" />
     <option name="width" value="1060" />
     <option name="height" value="817" />
   </component>
@@ -114,7 +119,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.py.test for test_002.Test_001.test_001">
     <configuration name="py.test for test001.Test_001" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="home" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,8 +134,43 @@
       <option name="_new_target" value="&quot;test001.Test_001&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
+    <configuration name="py.test for test_002.Test_001.test_001" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="home" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_002.Test_001.test_001&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="py.test in test001.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="home" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test001.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.py.test for test001.Test_001" />
+      <item itemvalue="Python tests.py.test in test001.py" />
+      <item itemvalue="Python tests.py.test for test_002.Test_001.test_001" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.py.test for test_002.Test_001.test_001" />
+        <item itemvalue="Python tests.py.test in test001.py" />
         <item itemvalue="Python tests.py.test for test001.Test_001" />
       </list>
     </recent_temporary>
@@ -155,19 +195,39 @@
     <history-entry file="py_test_for_test001_Test_001 - 2018.05.27 at 14h 09m 44s.xml">
       <configuration name="py.test for test001.Test_001" configurationId="tests" />
     </history-entry>
+    <history-entry file="py_test_for_test001_Test_001 - 2018.05.27 at 14h 25m 00s.xml">
+      <configuration name="py.test for test001.Test_001" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test001_Test_001 - 2018.05.27 at 14h 28m 52s.xml">
+      <configuration name="py.test for test001.Test_001" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test001_Test_001 - 2018.05.27 at 14h 33m 43s.xml">
+      <configuration name="py.test for test001.Test_001" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test001_py - 2018.05.27 at 14h 34m 35s.xml">
+      <configuration name="py.test in test001.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test001_py - 2018.05.27 at 14h 35m 23s.xml">
+      <configuration name="py.test in test001.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test001_py - 2018.05.27 at 14h 36m 35s.xml">
+      <configuration name="py.test in test001.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_002_Test_001_test_001 - 2018.05.27 at 15h 30m 54s.xml">
+      <configuration name="py.test for test_002.Test_001.test_001" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="183" y="23" width="1060" height="817" extended-state="0" />
-    <editor active="true" />
+    <frame x="224" y="30" width="1060" height="817" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24927816" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15014437" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32916668" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3638889" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32916668" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -190,23 +250,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test001.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-          <folding>
-            <marker date="1527398648000" expanded="true" signature="98:103" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/report/604134e8-2616-40a7-83f3-a849b2512d7d-testsuite.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/pytest.ini">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="31" />
+        <state relative-caret-position="135">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/test_002.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test001.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_002.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
         </state>
       </provider>
     </entry>
